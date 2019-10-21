@@ -1,0 +1,11 @@
+D:\C#\Programming\C# practice\2. Classes\Invoice\Invoice\Invoice\bin\Debug\netcoreapp2.1\Invoice.deps.json
+D:\C#\Programming\C# practice\2. Classes\Invoice\Invoice\Invoice\bin\Debug\netcoreapp2.1\Invoice.runtimeconfig.json
+D:\C#\Programming\C# practice\2. Classes\Invoice\Invoice\Invoice\bin\Debug\netcoreapp2.1\Invoice.runtimeconfig.dev.json
+D:\C#\Programming\C# practice\2. Classes\Invoice\Invoice\Invoice\bin\Debug\netcoreapp2.1\Invoice.dll
+D:\C#\Programming\C# practice\2. Classes\Invoice\Invoice\Invoice\bin\Debug\netcoreapp2.1\Invoice.pdb
+D:\C#\Programming\C# practice\2. Classes\Invoice\Invoice\Invoice\obj\Debug\netcoreapp2.1\Invoice.csprojAssemblyReference.cache
+D:\C#\Programming\C# practice\2. Classes\Invoice\Invoice\Invoice\obj\Debug\netcoreapp2.1\Invoice.csproj.CoreCompileInputs.cache
+D:\C#\Programming\C# practice\2. Classes\Invoice\Invoice\Invoice\obj\Debug\netcoreapp2.1\Invoice.AssemblyInfoInputs.cache
+D:\C#\Programming\C# practice\2. Classes\Invoice\Invoice\Invoice\obj\Debug\netcoreapp2.1\Invoice.AssemblyInfo.cs
+D:\C#\Programming\C# practice\2. Classes\Invoice\Invoice\Invoice\obj\Debug\netcoreapp2.1\Invoice.dll
+D:\C#\Programming\C# practice\2. Classes\Invoice\Invoice\Invoice\obj\Debug\netcoreapp2.1\Invoice.pdb
