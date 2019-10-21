@@ -1,0 +1,7 @@
+E:\C#\Practice\C# Essential\2. Classes\Classes_2\User\User\User\bin\Debug\User.exe.config
+E:\C#\Practice\C# Essential\2. Classes\Classes_2\User\User\User\bin\Debug\User.exe
+E:\C#\Practice\C# Essential\2. Classes\Classes_2\User\User\User\bin\Debug\User.pdb
+E:\C#\Practice\C# Essential\2. Classes\Classes_2\User\User\User\obj\Debug\User.csprojAssemblyReference.cache
+E:\C#\Practice\C# Essential\2. Classes\Classes_2\User\User\User\obj\Debug\User.csproj.CoreCompileInputs.cache
+E:\C#\Practice\C# Essential\2. Classes\Classes_2\User\User\User\obj\Debug\User.exe
+E:\C#\Practice\C# Essential\2. Classes\Classes_2\User\User\User\obj\Debug\User.pdb
