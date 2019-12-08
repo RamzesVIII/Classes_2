@@ -4,21 +4,21 @@ using System.Text;
 
 namespace Converter
 {
-    class Converter
+    public class Converter
     {
-        double usd;
-        double eur;
-        double rub;
-        double byn;
+        private double usd;
+        private double eur;
+        private double rub;
+        private double byn;
 
-        public double Usd
-        { get { return usd; } }
-        public double Eur
-        { get { return eur; } }
-        public double Rub
-        { get { return rub; } }
-        public double Byn
-        { get { return byn; } }
+        public double Usd => usd;
+
+        public double Eur => eur;
+
+        public double Rub => rub;
+
+        public double Byn => byn;
+       
         public Converter (double usd, double eur, double rub)
         {
             this.usd = usd;
