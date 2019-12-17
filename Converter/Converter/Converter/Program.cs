@@ -6,9 +6,9 @@ namespace Converter
     {
         static void Main(string[] args)
         {
-            Converter converter = new Converter(100, 125, 6600);
+            Converter converter = new Converter(100, 200, 5000);
 
-            converter.Converter(100, Convertation.Usd, Convertation.Rub);
+            converter.Converter(1000, Convertation.Byn, Convertation.Eur);
 
             //Console.WriteLine("{0} usd = {1} byn ",converter.Usd ,converter.fromUsdToByn());
             //Console.WriteLine("{0} eur = {1} byn ", converter.Eur, converter.fromEurToByn());
