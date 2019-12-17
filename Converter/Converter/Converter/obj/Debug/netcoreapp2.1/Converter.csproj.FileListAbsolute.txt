@@ -8,3 +8,13 @@ D:\C#\Programming\C# practice\2. Classes\Converter\Converter\Converter\obj\Debug
 D:\C#\Programming\C# practice\2. Classes\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.AssemblyInfo.cs
 D:\C#\Programming\C# practice\2. Classes\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.dll
 D:\C#\Programming\C# practice\2. Classes\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.pdb
+e:\C#\Practice\C# Essential\2. Classes\Classes_2\Converter\Converter\Converter\bin\Debug\netcoreapp2.1\Converter.deps.json
+e:\C#\Practice\C# Essential\2. Classes\Classes_2\Converter\Converter\Converter\bin\Debug\netcoreapp2.1\Converter.runtimeconfig.json
+e:\C#\Practice\C# Essential\2. Classes\Classes_2\Converter\Converter\Converter\bin\Debug\netcoreapp2.1\Converter.runtimeconfig.dev.json
+e:\C#\Practice\C# Essential\2. Classes\Classes_2\Converter\Converter\Converter\bin\Debug\netcoreapp2.1\Converter.dll
+e:\C#\Practice\C# Essential\2. Classes\Classes_2\Converter\Converter\Converter\bin\Debug\netcoreapp2.1\Converter.pdb
+e:\C#\Practice\C# Essential\2. Classes\Classes_2\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.csprojAssemblyReference.cache
+e:\C#\Practice\C# Essential\2. Classes\Classes_2\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.AssemblyInfoInputs.cache
+e:\C#\Practice\C# Essential\2. Classes\Classes_2\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.AssemblyInfo.cs
+e:\C#\Practice\C# Essential\2. Classes\Classes_2\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.dll
+e:\C#\Practice\C# Essential\2. Classes\Classes_2\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.pdb
