@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Converter
 {
-    public enum Convertation
+    public enum Curenci
     {
         Usd = 1,
         Eur = 2,
@@ -13,55 +13,36 @@ namespace Converter
     }
     public class BaseClass
     {
-        public double Usd { get; set; }
-        public double Eur { get; set; }
-        public double Rub { get; set; }
-        public double Byn { get; set; }
+        private readonly Dictionary<Curenci, double> CurenciValue;
         public BaseClass (double usd, double eur, double rub)
         {
-            Usd = usd * 2;
-            Eur = eur * 2.5;
-            Rub = rub / 3.3;
-            
+            CurenciValue = new Dictionary<Curenci, double>
+            {
+               {Curenci.Usd, usd },
+               {Curenci.Eur, eur },
+               {Curenci.Rub, rub },
+               {Curenci.Byn, 1 }
+            };
         }
-
-        public virtual void Converter(double money, Convertation con1, Convertation con2)
+        public virtual void Converter(double money, Curenci cur1, Curenci cur2)
         {
-            switch (con1)
+            try
             {
-                case Convertation.Usd:
-                    Usd *= 2;
-                    break;
-                case Convertation.Eur:
-                    Eur *= 2.5;
-                    break;
-                case Convertation.Rub:
-                    Rub /= 3.3;
-                    break;
-                case Convertation.Byn:
-                    break;
-                default:
-                    break;
+                double koef1, koef2;
+                CurenciValue.TryGetValue(cur1, out koef1);
+                CurenciValue.TryGetValue(cur2, out koef2);
+                if (koef1 == 0 || koef2 == 0)
+                {
+                    throw new Exception("Курс для данной валюты не установлен, или установлен в 0, желаете продолжить : Y/N?");
+                }
+                double sum = money * koef1 / koef2;
+                Console.WriteLine(sum);
             }
-            switch (con2)
+            catch (Exception e)
             {
-                case Convertation.Usd:
-                    Usd /= 2;
-                    break;
-                case Convertation.Eur:
-                    Eur /= 2.5;
-                    break;
-                case Convertation.Rub:
-                    Rub *= 3.3;
-                    break;
-                case Convertation.Byn:
-                    break;
-                default:
-                    break;
+                Console.WriteLine(e.Message);
             }
-
-            double sum = money *;
-            Console.WriteLine(sum);
+            
         }
     }
 }
