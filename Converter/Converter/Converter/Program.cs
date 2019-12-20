@@ -6,10 +6,12 @@ namespace Converter
     {
         static void Main(string[] args)
         {
+
             Converter converter = new Converter(2, 2.5, 0.033);
 
             converter.Converter(100, Curenci.Usd, Curenci.Rub);
 
+            
             //Console.WriteLine("{0} usd = {1} byn ",converter.Usd ,converter.fromUsdToByn());
             //Console.WriteLine("{0} eur = {1} byn ", converter.Eur, converter.fromEurToByn());
             //Console.WriteLine("{0} rub = {1} byn ", converter.Rub, converter.fromRubToByn());

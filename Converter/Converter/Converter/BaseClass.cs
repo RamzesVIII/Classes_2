@@ -6,15 +6,16 @@ namespace Converter
 {
     public enum Curenci
     {
-        Usd = 1,
-        Eur = 2,
-        Rub = 3,
-        Byn = 4
+        Usd ,
+        Eur ,
+        Rub ,
+        Byn 
     }
     public class BaseClass
     {
+
         private readonly Dictionary<Curenci, double> CurenciValue;
-        public BaseClass (double usd, double eur, double rub)
+        public BaseClass(double usd, double eur, double rub)
         {
             CurenciValue = new Dictionary<Curenci, double>
             {
@@ -24,8 +25,11 @@ namespace Converter
                {Curenci.Byn, 1 }
             };
         }
+
+       
         public virtual void Converter(double money, Curenci cur1, Curenci cur2)
         {
+
             try
             {
                 double koef1, koef2;
@@ -37,9 +41,12 @@ namespace Converter
                 }
                 double sum = money * koef1 / koef2;
                 Console.WriteLine(sum);
+
+            
             }
             catch (Exception e)
             {
+
                 Console.WriteLine(e.Message);
             }
             
