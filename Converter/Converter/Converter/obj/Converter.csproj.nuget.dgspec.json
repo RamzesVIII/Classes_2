@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "e:\\C#\\Practice\\C# Essential\\2. Classes\\Classes_2\\Converter\\Converter\\Converter\\Converter.csproj": {}
+    "D:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Converter\\Converter\\Converter\\Converter.csproj": {}
   },
   "projects": {
-    "e:\\C#\\Practice\\C# Essential\\2. Classes\\Classes_2\\Converter\\Converter\\Converter\\Converter.csproj": {
+    "D:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Converter\\Converter\\Converter\\Converter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\C#\\Practice\\C# Essential\\2. Classes\\Classes_2\\Converter\\Converter\\Converter\\Converter.csproj",
+        "projectUniqueName": "D:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Converter\\Converter\\Converter\\Converter.csproj",
         "projectName": "Converter",
-        "projectPath": "e:\\C#\\Practice\\C# Essential\\2. Classes\\Classes_2\\Converter\\Converter\\Converter\\Converter.csproj",
-        "packagesPath": "C:\\Users\\Roman\\.nuget\\packages\\",
-        "outputPath": "e:\\C#\\Practice\\C# Essential\\2. Classes\\Classes_2\\Converter\\Converter\\Converter\\obj\\",
+        "projectPath": "D:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Converter\\Converter\\Converter\\Converter.csproj",
+        "packagesPath": "C:\\Users\\GT63\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Converter\\Converter\\Converter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Roman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\GT63\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

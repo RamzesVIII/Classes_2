@@ -18,3 +18,13 @@ e:\C#\Practice\C# Essential\2. Classes\Classes_2\Converter\Converter\Converter\o
 e:\C#\Practice\C# Essential\2. Classes\Classes_2\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.AssemblyInfo.cs
 e:\C#\Practice\C# Essential\2. Classes\Classes_2\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.dll
 e:\C#\Practice\C# Essential\2. Classes\Classes_2\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.pdb
+D:\C#\Programming\C# practice\2. Classes\moslakovroman\Classes__2\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.csprojAssemblyReference.cache
+D:\C#\Programming\C# practice\2. Classes\moslakovroman\Classes__2\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.AssemblyInfoInputs.cache
+D:\C#\Programming\C# practice\2. Classes\moslakovroman\Classes__2\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.AssemblyInfo.cs
+D:\C#\Programming\C# practice\2. Classes\moslakovroman\Classes__2\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.dll
+D:\C#\Programming\C# practice\2. Classes\moslakovroman\Classes__2\Converter\Converter\Converter\obj\Debug\netcoreapp2.1\Converter.pdb
+D:\C#\Programming\C# practice\2. Classes\moslakovroman\Classes__2\Converter\Converter\Converter\bin\Debug\netcoreapp2.1\Converter.deps.json
+D:\C#\Programming\C# practice\2. Classes\moslakovroman\Classes__2\Converter\Converter\Converter\bin\Debug\netcoreapp2.1\Converter.runtimeconfig.json
+D:\C#\Programming\C# practice\2. Classes\moslakovroman\Classes__2\Converter\Converter\Converter\bin\Debug\netcoreapp2.1\Converter.runtimeconfig.dev.json
+D:\C#\Programming\C# practice\2. Classes\moslakovroman\Classes__2\Converter\Converter\Converter\bin\Debug\netcoreapp2.1\Converter.dll
+D:\C#\Programming\C# practice\2. Classes\moslakovroman\Classes__2\Converter\Converter\Converter\bin\Debug\netcoreapp2.1\Converter.pdb
