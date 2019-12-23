@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Programming\\C# practice\\2. Classes\\Employee\\Employee\\Employee\\Employee.csproj": {}
+    "D:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Employee\\Employee\\Employee\\Employee.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Programming\\C# practice\\2. Classes\\Employee\\Employee\\Employee\\Employee.csproj": {
+    "D:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Employee\\Employee\\Employee\\Employee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Programming\\C# practice\\2. Classes\\Employee\\Employee\\Employee\\Employee.csproj",
+        "projectUniqueName": "D:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Employee\\Employee\\Employee\\Employee.csproj",
         "projectName": "Employee",
-        "projectPath": "D:\\C#\\Programming\\C# practice\\2. Classes\\Employee\\Employee\\Employee\\Employee.csproj",
+        "projectPath": "D:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Employee\\Employee\\Employee\\Employee.csproj",
         "packagesPath": "C:\\Users\\GT63\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Programming\\C# practice\\2. Classes\\Employee\\Employee\\Employee\\obj\\",
+        "outputPath": "D:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Employee\\Employee\\Employee\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,16 +42,23 @@
         "netcoreapp2.1": {
           "dependencies": {
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
