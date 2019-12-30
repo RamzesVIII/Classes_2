@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Employee\\Employee\\Employee\\Employee.csproj": {}
+    "d:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Employee\\Employee\\Employee\\Employee.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Employee\\Employee\\Employee\\Employee.csproj": {
+    "d:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Employee\\Employee\\Employee\\Employee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Employee\\Employee\\Employee\\Employee.csproj",
+        "projectUniqueName": "d:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Employee\\Employee\\Employee\\Employee.csproj",
         "projectName": "Employee",
-        "projectPath": "D:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Employee\\Employee\\Employee\\Employee.csproj",
+        "projectPath": "d:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Employee\\Employee\\Employee\\Employee.csproj",
         "packagesPath": "C:\\Users\\GT63\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Employee\\Employee\\Employee\\obj\\",
+        "outputPath": "d:\\C#\\Programming\\C# practice\\2. Classes\\moslakovroman\\Classes__2\\Employee\\Employee\\Employee\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

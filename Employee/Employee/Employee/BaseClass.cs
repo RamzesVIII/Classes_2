@@ -13,9 +13,13 @@ namespace Employee
     }
     public class BaseClass
     {
-        public string FirstName { get; private set; }
-        public string LastName { get; private set; }
-        public JobPosition Position { get; private set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public JobPosition Position { get; set; }
+        public int Years { get; set; }
+        public int Salary { get; set; }
+        public double Koef { get; set; }
+
         
 
         public BaseClass(string firstName, string lastName, JobPosition position)
@@ -25,5 +29,8 @@ namespace Employee
             Position = position;
         }
 
+        public BaseClass() { }
+
+        
     }
 }
